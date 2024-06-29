@@ -1,4 +1,4 @@
-## _The Development of a Static Website_
+## _The Deployment of a Static Website_
 
 ### _AWS instance_
 ![](./1.%20Creation-AWS-Instance.png)
